@@ -1,4 +1,4 @@
-# banking_system
+# Banking System
 A simple banking system. It's my first project that uses SQL for processing data. 
 
 ## Supported languages:
